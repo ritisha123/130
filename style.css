@@ -1,0 +1,69 @@
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+
+.note 
+{
+    font-size: 15px;
+    color: black;
+}
+
+body {
+
+    background-size: cover;
+}
+
+.play_Dormone 
+{
+    width: 140px;
+    font-size: 25px;
+    background-color: lightblue;
+    
+}
+
+.play_seashanty 
+{
+    width: 160px;
+    font-size: 25px;
+    background-color: lightblue;
+}
+
+.play_button 
+{
+    width: 150px;
+    font-size: 25px;
+    background-color: rgb(255, 200, 0);
+}
+
+.play_Frog 
+{
+    width: 150px;
+    font-size: 25px;
+    background-color: rgb(255, 200, 0);
+}
+
+.play_Believer 
+{
+    width: 150px;
+    font-size: 25px;
+    background-color: lightblue;
+}
+
+.stop_all 
+{
+    width: 150px;
+    height: 40px;
+    font-size: 25px;
+}
+
+canvas 
+{
+    border: 5px solid cyan;
+    border-radius: 20p;
+    border: 20px;
+    box-shadow: inset;
+    padding: 20px;
+}
